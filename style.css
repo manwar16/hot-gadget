@@ -1,0 +1,31 @@
+.container{
+    margin-top: 50px;
+}
+.nav-bg{
+    background-color: white;
+}
+.carousel{
+    background-color: lemonchiffon;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    position: relative;
+    cursor: pointer;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+
+}
+
+}
+.card h3{
+    text-align: center;
+}
