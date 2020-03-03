@@ -7,13 +7,16 @@
 .carousel{
     background-color: lemonchiffon;
 }
+.carousel-item{
+    padding: 20px 40px;
+}
 
 .buy-now-button{
     background-color: black;
     color: white;
     border-radius: 5px;
     padding: 10px 20px;
-    position: relative;
+     
     cursor: pointer;
 }
 .card{
@@ -24,8 +27,17 @@
     background-color: white;
 
 }
-
+.pale-order img{
+    width: 100%;
 }
-.card h3{
+.categories img{
+    box-shadow: 5px 5px 10px lightgray;
+}
+h4{
     text-align: center;
+}
+footer{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
 }
